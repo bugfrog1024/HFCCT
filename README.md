@@ -19,4 +19,4 @@ A tool for vulnerability detection of Hyperledger Fabric smart contracts (chainc
 
 2. Use your python IDE to Run `HFCCT.py` , to detect vulnerabilities for sample projects in `chaincodes/` .
 
-3. You can add projects to `chaincodes/` and modify "test_list"  of `HFCCT.py `, to detect vulnerabilities for more projects you want to detect.
+3. You can add projects to `chaincodes/` and modify "test_list"  of `HFCCT.py` , to detect vulnerabilities for more projects you want to detect.
